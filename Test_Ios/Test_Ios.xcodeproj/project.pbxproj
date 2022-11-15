@@ -15,6 +15,7 @@
 		4BD063FC2912E3C50052D154 /* Test_IosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD063FB2912E3C50052D154 /* Test_IosUITests.swift */; };
 		4BD063FE2912E3C50052D154 /* Test_IosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD063FD2912E3C50052D154 /* Test_IosUITestsLaunchTests.swift */; };
 		4BD0640B2912ECD10052D154 /* Subject_tile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BD0640A2912ECD10052D154 /* Subject_tile.swift */; };
+		4BE68B462924270E00F66CB0 /* info.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BE68B452924270E00F66CB0 /* info.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		4BD063FB2912E3C50052D154 /* Test_IosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_IosUITests.swift; sourceTree = "<group>"; };
 		4BD063FD2912E3C50052D154 /* Test_IosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_IosUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		4BD0640A2912ECD10052D154 /* Subject_tile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Subject_tile.swift; sourceTree = "<group>"; };
+		4BE68B452924270E00F66CB0 /* info.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = info.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				4BD063E02912E3C30052D154 /* Test_IosApp.swift */,
 				4BD063E22912E3C30052D154 /* ContentView.swift */,
+				4BE68B452924270E00F66CB0 /* info.swift */,
 				4BD0640A2912ECD10052D154 /* Subject_tile.swift */,
 				4BD063E42912E3C50052D154 /* Assets.xcassets */,
 				4BD063E62912E3C50052D154 /* Preview Content */,
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BD063E32912E3C30052D154 /* ContentView.swift in Sources */,
+				4BE68B462924270E00F66CB0 /* info.swift in Sources */,
 				4BD0640B2912ECD10052D154 /* Subject_tile.swift in Sources */,
 				4BD063E12912E3C30052D154 /* Test_IosApp.swift in Sources */,
 			);
